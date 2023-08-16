@@ -949,7 +949,7 @@ Note:
 These settings are reflected for all the CD/DVD/BD publishers registered (except for the PP-100N).
 
 
-![Image](Images\img17_1.png)
+![Image](Images/img17_1.png)
 
 1. Select Start (
  in Windows 7 or Windows Vista) - All Programs (or Programs) - 
@@ -965,7 +965,7 @@ The EPSON Total Disc Setup will start.
 The Common Setting for Publishing screen will appear.
 
 
-![Image](Images\img17_2.png)
+![Image](Images/img17_2.png)
 
 3. Click Browse to select a folder to create a Working Folder.
 
