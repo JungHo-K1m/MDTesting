@@ -1,6 +1,4 @@
 Test Markdown File
-# Page 1
-
 ## User’s Guide
 
 
@@ -11,8 +9,6 @@ Test Markdown File
 
 
 ---
-
-# Page 2
 
 Copyright and Trademarks 
 
@@ -64,8 +60,6 @@ Copyright © 2008 Seiko Epson Corporation. All rights reserved.
 
 
 ---
-
-# Page 3
 
 Contents 
 
@@ -153,8 +147,6 @@ Uninstalling Software. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 
 ---
-
-# Page 4
 
 Contents 
 
@@ -253,8 +245,6 @@ Replacing an Ink Cartridge  . . . . . . . . . . . . . . . . . . . . . . . . . . 
 
 ---
 
-# Page 5
-
 Contents 
 
 5 
@@ -352,8 +342,6 @@ Ink Adheres to the Recording Surface. . . . . . . . . . . . . . . . . . . . . . 
 
 ---
 
-# Page 6
-
 Contents 
 
 6 
@@ -445,8 +433,6 @@ Lifetime  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 
 ---
 
-# Page 7
-
 Important Notice and Safety Instructions 
 
 7 
@@ -511,8 +497,6 @@ interference, such as loudspeakers or the base units of cordless telephones.
 
 
 ---
-
-# Page 8
 
 Important Notice and Safety Instructions 
 
@@ -589,8 +573,6 @@ product away from direct sunlight, strong light, or heat sources.
 
 ---
 
-# Page 9
-
 Important Notice and Safety Instructions 
 
 9 
@@ -657,8 +639,6 @@ handle the cartridges.
 
 
 ---
-
-# Page 10
 
 Important Notice and Safety Instructions 
 
@@ -731,8 +711,6 @@ to those listed above, even the product is under warranty period.
 
 ---
 
-# Page 11
-
 Important Notice and Safety Instructions 
 
 11 
@@ -802,8 +780,6 @@ interference in which case the user may be required to take adequate measures.
 
 ---
 
-# Page 12
-
 Important Notice and Safety Instructions 
 
 12 
@@ -850,8 +826,6 @@ This Class B digital apparatus complies with Canadian ICES-003.
 
 
 ---
-
-# Page 13
 
 Important Notice and Safety Instructions 
 
@@ -954,8 +928,6 @@ Telephone:
 
 ---
 
-# Page 14
-
 Important Notice and Safety Instructions 
 
 14 
@@ -990,8 +962,6 @@ contain important information and useful tips on the operation of the product.
 
 
 ---
-
-# Page 15
 
 Using Your Software 
 
@@ -1079,8 +1049,6 @@ faster processor
 
 
 ---
-
-# Page 16
 
 Using Your Software 
 
@@ -1207,8 +1175,6 @@ Windows Media Player 6.4 or higher must be installed.
 
 ---
 
-# Page 17
-
 Using Your Software 
 
 17 
@@ -1268,8 +1234,6 @@ with the oldest one) to make room for new ones.
 
 ---
 
-# Page 18
-
 Using Your Software 
 
 18 
@@ -1312,8 +1276,6 @@ The EPSON Total Disc Setup will start.
 
 
 ---
-
-# Page 19
 
 Using Your Software 
 
@@ -1359,8 +1321,6 @@ The  Notification Settings  screen will appear.
 
 
 ---
-
-# Page 20
 
 Using Your Software 
 
@@ -1428,8 +1388,6 @@ Point to  EPSON Total Disc Maker , and then click  EPSON Total Disc Maker .
 
 
 ---
-
-# Page 21
 
 Using Your Software 
 
@@ -1512,8 +1470,6 @@ Point to  EPSON Total Disc Maker , and then click  EPSON Total Disc Setup .
 
 ---
 
-# Page 22
-
 Using Your Software 
 
 22 
@@ -1578,8 +1534,6 @@ In the printer driver window, try one of the following procedures.
 
 
 ---
-
-# Page 23
 
 Using Your Software 
 
@@ -1647,8 +1601,6 @@ double-clicking setup.exe in Discproducer Utility & Documents Disc.
 
 
 ---
-
-# Page 24
 
 Publishing Discs 
 
@@ -1735,8 +1687,6 @@ is turned off without following the procedure, data in the PC maybe damaged.
 
 ---
 
-# Page 25
-
 Publishing Discs 
 
 25 
@@ -1810,8 +1760,6 @@ stackers.
 
 ---
 
-# Page 26
-
 Publishing Discs 
 
 26 
@@ -1876,8 +1824,6 @@ Select Printer Name.
 
 
 ---
-
-# Page 27
 
 Publishing Discs 
 
@@ -1958,8 +1904,6 @@ full day, especially before printing a large number of CDs/DVDs.
 
 ---
 
-# Page 28
-
 Publishing Discs 
 
 28 
@@ -2029,8 +1973,6 @@ malfunction of the drive or make the disc unusable.
 
 ---
 
-# Page 29
-
 Publishing Discs 
 
 29 
@@ -2097,8 +2039,6 @@ copying.
 
 
 ---
-
-# Page 30
 
 Publishing Discs 
 
@@ -2171,8 +2111,6 @@ Margins on all sides
 
 ---
 
-# Page 31
-
 Publishing Discs 
 
 31 
@@ -2198,8 +2136,6 @@ recording side of the discs.
 
 ---
 
-# Page 32
-
 Publishing Discs 
 
 32 
@@ -2220,8 +2156,6 @@ product may be damaged.
 
 
 ---
-
-# Page 33
 
 Publishing Discs 
 
@@ -2253,8 +2187,6 @@ Do not pull out stacker 4. Be sure to lock the lock lever located on stacker 4.
 
 
 ---
-
-# Page 34
 
 Publishing Discs 
 
@@ -2293,8 +2225,6 @@ Maker.
 
 ---
 
-# Page 35
-
 Publishing Discs 
 
 35 
@@ -2305,8 +2235,6 @@ Publishing Discs
 
 
 ---
-
-# Page 36
 
 Publishing Discs 
 
@@ -2333,8 +2261,6 @@ To access Help for EPSON Total Disc Maker, select  Help  from the Help menu.
 
 ---
 
-# Page 37
-
 Publishing Discs 
 
 37 
@@ -2354,8 +2280,6 @@ software.
 
 ---
 
-# Page 38
-
 Publishing Discs 
 
 38 
@@ -2366,8 +2290,6 @@ Publishing Discs
 
 
 ---
-
-# Page 39
 
 Publishing Discs 
 
@@ -2385,8 +2307,6 @@ To access Help for EPSON Total Disc Maker, select  Help  from the Help menu.
 
 
 ---
-
-# Page 40
 
 Publishing Discs 
 
@@ -2408,8 +2328,6 @@ Disc Setup.
 
 
 ---
-
-# Page 41
 
 Publishing Discs 
 
@@ -2446,8 +2364,6 @@ use .
 
 ---
 
-# Page 42
-
 Publishing Discs 
 
 42 
@@ -2472,8 +2388,6 @@ To access Help for EPSON Total Disc Maker, select  Help  from the Help menu.
 
 
 ---
-
-# Page 43
 
 Publishing Discs 
 
@@ -2534,8 +2448,6 @@ next time.
 
 ---
 
-# Page 44
-
 Publishing Discs 
 
 44 
@@ -2561,8 +2473,6 @@ recording side of the discs.
 
 ---
 
-# Page 45
-
 Publishing Discs 
 
 45 
@@ -2583,8 +2493,6 @@ product may be damaged.
 
 
 ---
-
-# Page 46
 
 Publishing Discs 
 
@@ -2611,8 +2519,6 @@ product may be damaged.
 
 ---
 
-# Page 47
-
 Publishing Discs 
 
 47 
@@ -2637,8 +2543,6 @@ Do not pull out stacker 4. Be sure to lock the lock lever located on stacker 4.
 
 
 ---
-
-# Page 48
 
 Publishing Discs 
 
@@ -2687,8 +2591,6 @@ Maker.
 
 ---
 
-# Page 49
-
 Publishing Discs 
 
 49 
@@ -2699,8 +2601,6 @@ Publishing Discs
 
 
 ---
-
-# Page 50
 
 Publishing Discs 
 
@@ -2727,8 +2627,6 @@ To access Help for EPSON Total Disc Maker, select  Help  from the Help menu.
 
 ---
 
-# Page 51
-
 Publishing Discs 
 
 51 
@@ -2748,8 +2646,6 @@ software.
 
 ---
 
-# Page 52
-
 Publishing Discs 
 
 52 
@@ -2760,8 +2656,6 @@ Publishing Discs
 
 
 ---
-
-# Page 53
 
 Publishing Discs 
 
@@ -2779,8 +2673,6 @@ To access Help for EPSON Total Disc Maker, select  Help  from the Help menu.
 
 
 ---
-
-# Page 54
 
 Publishing Discs 
 
@@ -2802,8 +2694,6 @@ Disc Setup.
 
 
 ---
-
-# Page 55
 
 Publishing Discs 
 
@@ -2838,8 +2728,6 @@ use .
 
 ---
 
-# Page 56
-
 Publishing Discs 
 
 56 
@@ -2864,8 +2752,6 @@ To access Help for EPSON Total Disc Maker, select  Help  from the Help menu.
 
 
 ---
-
-# Page 57
 
 Publishing Discs 
 
@@ -2928,8 +2814,6 @@ next time.
 
 ---
 
-# Page 58
-
 Publishing Discs 
 
 58 
@@ -2955,8 +2839,6 @@ recording side of the discs.
 
 ---
 
-# Page 59
-
 Publishing Discs 
 
 59 
@@ -2977,8 +2859,6 @@ product may be damaged.
 
 
 ---
-
-# Page 60
 
 Publishing Discs 
 
@@ -3005,8 +2885,6 @@ product may be damaged.
 
 ---
 
-# Page 61
-
 Publishing Discs 
 
 61 
@@ -3031,8 +2909,6 @@ Do not pull out stacker 4. Be sure to lock the lock lever located on stacker 4.
 
 
 ---
-
-# Page 62
 
 Publishing Discs 
 
@@ -3061,8 +2937,6 @@ To learn how to use EPSON Total Disc Maker, go to the Help menu.
 
 ---
 
-# Page 63
-
 Publishing Discs 
 
 63 
@@ -3083,8 +2957,6 @@ Maker.
 
 
 ---
-
-# Page 64
 
 Publishing Discs 
 
@@ -3111,8 +2983,6 @@ To access Help for EPSON Total Disc Maker, select  Help  from the Help menu.
 
 ---
 
-# Page 65
-
 Publishing Discs 
 
 65 
@@ -3132,8 +3002,6 @@ software.
 
 ---
 
-# Page 66
-
 Publishing Discs 
 
 66 
@@ -3144,8 +3012,6 @@ Publishing Discs
 
 
 ---
-
-# Page 67
 
 Publishing Discs 
 
@@ -3163,8 +3029,6 @@ To access Help for EPSON Total Disc Maker, select  Help  from the Help menu.
 
 
 ---
-
-# Page 68
 
 Publishing Discs 
 
@@ -3187,8 +3051,6 @@ Disc Setup.
 
 ---
 
-# Page 69
-
 Publishing Discs 
 
 69 
@@ -3207,8 +3069,6 @@ Select the type of discs that you loaded into stackers 1 and 2.
 
 
 ---
-
-# Page 70
 
 Publishing Discs 
 
@@ -3232,8 +3092,6 @@ To access Help for EPSON Total Disc Maker, select  Help  from the Help menu.
 
 
 ---
-
-# Page 71
 
 Publishing Discs 
 
@@ -3295,8 +3153,6 @@ next time.
 
 
 ---
-
-# Page 72
 
 Publishing Discs 
 
@@ -3381,8 +3237,6 @@ Stacker 4
 
 ---
 
-# Page 73
-
 Publishing Discs 
 
 73 
@@ -3413,8 +3267,6 @@ thickness of the discs used.
 
 
 ---
-
-# Page 74
 
 Publishing Discs 
 
@@ -3451,8 +3303,6 @@ The processing of any subsequent job also does not start while the job is paused
 
 ---
 
-# Page 75
-
 Publishing Discs 
 
 75 
@@ -3475,8 +3325,6 @@ list, and then select  Resume Job  from the Job menu or click
 
 
 ---
-
-# Page 76
 
 Publishing Discs 
 
@@ -3504,8 +3352,6 @@ If a disc is being published, that processing is stopped, and the disc is output
 
 
 ---
-
-# Page 77
 
 Publishing Discs 
 
@@ -3539,8 +3385,6 @@ correcting printing position.
 
 
 ---
-
-# Page 78
 
 Replacing Ink Cartridges 
 
@@ -3592,8 +3436,6 @@ an ink cartridge supported by the product.
 
 
 ---
-
-# Page 79
 
 Replacing Ink Cartridges 
 
@@ -3666,8 +3508,6 @@ otherwise, ink remaining in the print head nozzles may dry out.
 
 ---
 
-# Page 80
-
 Replacing Ink Cartridges 
 
 80 
@@ -3735,8 +3575,6 @@ To confirm the status of each ink cartridge, see the following section:
 
 ---
 
-# Page 81
-
 Replacing Ink Cartridges 
 
 81 
@@ -3786,8 +3624,6 @@ used ink cartridge with a new one.
 
 ---
 
-# Page 82
-
 Replacing Ink Cartridges 
 
 82 
@@ -3827,8 +3663,6 @@ may cause erratic product behavior.
 
 ---
 
-# Page 83
-
 Replacing Ink Cartridges 
 
 83 
@@ -3841,8 +3675,6 @@ place.
 
 
 ---
-
-# Page 84
 
 Maintaining Your Product 
 
@@ -3894,8 +3726,6 @@ print head is fine.
 
 
 ---
-
-# Page 85
 
 Maintaining Your Product 
 
@@ -3962,8 +3792,6 @@ replacement time, you cannot clean the print head. Replace the appropriate ink c
 
 ---
 
-# Page 86
-
 Maintaining Your Product 
 
 86 
@@ -4026,8 +3854,6 @@ damaged and may need to be replaced.
 
 
 ---
-
-# Page 87
 
 Maintaining Your Product 
 
@@ -4118,8 +3944,6 @@ Follow the steps below to align the print head using the print head alignment ut
 
 ---
 
-# Page 88
-
 Maintaining Your Product 
 
 88 
@@ -4186,8 +4010,6 @@ See “Accessing the Printer Driver” on page 21.
 
 
 ---
-
-# Page 89
 
 Maintaining Your Product 
 
@@ -4258,8 +4080,6 @@ To keep your printouts at their best, clean the inside by using the following pr
 
 ---
 
-# Page 90
-
 Maintaining Your Product 
 
 90 
@@ -4313,8 +4133,6 @@ cord from the electrical outlet.
 
 ---
 
-# Page 91
-
 Maintaining Your Product 
 
 91 
@@ -4355,8 +4173,6 @@ When  Service life of Drive1/Drive2  is close to 100%, it is time to replace it.
 
 
 ---
-
-# Page 92
 
 Maintaining Your Product 
 
@@ -4431,8 +4247,6 @@ Be sure to lift the product by the correct positions, as shown below.
 
 ---
 
-# Page 93
-
 Troubleshooting 
 
 93 
@@ -4485,8 +4299,6 @@ Condition of indicator lights after error may change, depending on the operation
 
 
 ---
-
-# Page 94
 
 Troubleshooting 
 
@@ -4607,8 +4419,6 @@ your dealer.
 
 ---
 
-# Page 95
-
 Troubleshooting 
 
 95 
@@ -4726,8 +4536,6 @@ Stacker
 
 ---
 
-# Page 96
-
 Troubleshooting 
 
 96 
@@ -4830,8 +4638,6 @@ Stacker
 
 
 ---
-
-# Page 97
 
 Troubleshooting 
 
@@ -4938,8 +4744,6 @@ Stacker
 
 ---
 
-# Page 98
-
 Troubleshooting 
 
 98 
@@ -5045,8 +4849,6 @@ delete all print jobs.
 
 ---
 
-# Page 99
-
 Troubleshooting 
 
 99 
@@ -5150,8 +4952,6 @@ occurs frequently, contact your dealer.
 
 ---
 
-# Page 100
-
 Troubleshooting 
 
 100 
@@ -5229,8 +5029,6 @@ occurs frequently, contact your dealer.
 
 ---
 
-# Page 101
-
 Troubleshooting 
 
 101 
@@ -5289,8 +5087,6 @@ Job List
 
 
 ---
-
-# Page 102
 
 Troubleshooting 
 
@@ -5364,8 +5160,6 @@ the power and turn on the power again, and let the initializing process remove t
 
 
 ---
-
-# Page 103
 
 Troubleshooting 
 
@@ -5444,8 +5238,6 @@ product. Call your dealer for assistance.
 
 ---
 
-# Page 104
-
 Troubleshooting 
 
 104 
@@ -5504,8 +5296,6 @@ If a disc write error occurs frequently, check the following:
 
 
 ---
-
-# Page 105
 
 Troubleshooting 
 
@@ -5567,8 +5357,6 @@ page 107
 
 
 ---
-
-# Page 106
 
 Troubleshooting 
 
@@ -5639,8 +5427,6 @@ See the printer driver online Help for details.
 
 ---
 
-# Page 107
-
 Troubleshooting 
 
 107 
@@ -5709,8 +5495,6 @@ plugged in.
 
 
 ---
-
-# Page 108
 
 Troubleshooting 
 
@@ -5781,8 +5565,6 @@ loaded in the product.
 
 ---
 
-# Page 109
-
 Troubleshooting 
 
 109 
@@ -5851,8 +5633,6 @@ dealer.
 
 
 ---
-
-# Page 110
 
 Troubleshooting 
 
@@ -5927,8 +5707,6 @@ computer, then reinstall EPSON Total Disc Maker.
 
 ---
 
-# Page 111
-
 Troubleshooting 
 
 111 
@@ -5987,8 +5765,6 @@ product after computer is turned off.
 
 
 ---
-
-# Page 112
 
 Where To Get Help 
 
@@ -6055,8 +5831,6 @@ This site will provide the end user with access to the latest drivers and FAQs.
 
 ---
 
-# Page 113
-
 Where To Get Help 
 
 113 
@@ -6121,8 +5895,6 @@ www.epson.co.id
 
 
 ---
-
-# Page 114
 
 Where To Get Help 
 
@@ -6201,8 +5973,6 @@ www.epson.com.ph
 
 ---
 
-# Page 115
-
 Product Information 
 
 115 
@@ -6258,8 +6028,6 @@ d. Power button: Turns the product on or off.
 
 ---
 
-# Page 116
-
 Product Information 
 
 116 
@@ -6314,8 +6082,6 @@ Rear printer cover: Open this cover only when a disc is stuck in the printer tra
 
 
 ---
-
-# Page 117
 
 Product Information 
 
@@ -6383,8 +6149,6 @@ Drive 2: Writes data on the recording surface of discs.
 
 
 ---
-
-# Page 118
 
 Product Information 
 
@@ -6459,8 +6223,6 @@ When the stacker 4 light flashes rapidly, do not pull out stacker 4.
 
 ---
 
-# Page 119
-
 Product Information 
 
 119 
@@ -6533,8 +6295,6 @@ C13S020452
 
 
 ---
-
-# Page 120
 
 Product Information 
 
@@ -6633,8 +6393,6 @@ CD-R, DVD-R
 
 ---
 
-# Page 121
-
 Product Information 
 
 121 
@@ -6708,8 +6466,6 @@ occur.
 
 ---
 
-# Page 122
-
 Product Information 
 
 122 
@@ -6782,8 +6538,6 @@ Outer diameter
 
 
 ---
-
-# Page 123
 
 Product Information 
 
@@ -6896,8 +6650,6 @@ Storage:
 
 ---
 
-# Page 124
-
 Product Information 
 
 124 
@@ -6972,8 +6724,6 @@ the printing and print head quality.
 
 
 ---
-
-# Page 125
 
 Product Information 
 
@@ -7096,8 +6846,6 @@ Print Mode Setting
 
 ---
 
-# Page 126
-
 Product Information 
 
 126 
@@ -7191,8 +6939,6 @@ Approx. 24 W
 
 ---
 
-# Page 127
-
 Product Information 
 
 127 
@@ -7279,8 +7025,6 @@ Full-Speed (12 Mbps)
 
 
 ---
-
-# Page 128
 
 Product Information 
 
