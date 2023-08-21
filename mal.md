@@ -25,9 +25,15 @@ Test Markdown File
 1. 설치 
 
 
-![Image](https://storage.googleapis.com/aschatbot-a50cf.appspot.com/ENG_Mannual_img1_2.png)
+![Image](https://storage.googleapis.com/aschatbot-a50cf.appspot.com/ENG_Mannual_img1_1.png)
+
+
+---
 
 ![Image](https://storage.googleapis.com/aschatbot-a50cf.appspot.com/ENG_Mannual_img1_2.png)
+
+
+---
 
      
  
@@ -56,12 +62,12 @@ Test Markdown File
  
 
 
-
----
-
 # Page 2
 
-![Image](https://storage.googleapis.com/aschatbot-a50cf.appspot.com/ENG_Mannual_img2_2.png)
+![Image](https://storage.googleapis.com/aschatbot-a50cf.appspot.com/ENG_Mannual_img2_1.png)
+
+
+---
 
  
 
@@ -84,6 +90,9 @@ Test Markdown File
 
 ![Image](https://storage.googleapis.com/aschatbot-a50cf.appspot.com/ENG_Mannual_img2_2.png)
 
+
+---
+
  
 
 
@@ -91,12 +100,12 @@ Test Markdown File
 학습 시작 전, 학습할 어휘의 개수를 확인할 수 있다. 
 
 
-
----
-
 # Page 3
 
-![Image](https://storage.googleapis.com/aschatbot-a50cf.appspot.com/ENG_Mannual_img3_2.png)
+![Image](https://storage.googleapis.com/aschatbot-a50cf.appspot.com/ENG_Mannual_img3_1.png)
+
+
+---
 
  
 
@@ -106,6 +115,9 @@ Test Markdown File
 
 
 ![Image](https://storage.googleapis.com/aschatbot-a50cf.appspot.com/ENG_Mannual_img3_2.png)
+
+
+---
 
  
 
@@ -126,12 +138,12 @@ Test Markdown File
  
 
 
-
----
-
 # Page 4
 
-![Image](https://storage.googleapis.com/aschatbot-a50cf.appspot.com/ENG_Mannual_img4_2.png)
+![Image](https://storage.googleapis.com/aschatbot-a50cf.appspot.com/ENG_Mannual_img4_1.png)
+
+
+---
 
  
 
@@ -146,6 +158,9 @@ Test Markdown File
 
 ![Image](https://storage.googleapis.com/aschatbot-a50cf.appspot.com/ENG_Mannual_img4_2.png)
 
+
+---
+
  
 
 
@@ -157,12 +172,12 @@ Test Markdown File
 정답과 오답이 구분되어 있으며, 비슷한 의미로 사용된 단어 또한 표시된다. 
 
 
-
----
-
 # Page 5
 
-![Image](https://storage.googleapis.com/aschatbot-a50cf.appspot.com/ENG_Mannual_img5_2.png)
+![Image](https://storage.googleapis.com/aschatbot-a50cf.appspot.com/ENG_Mannual_img5_1.png)
+
+
+---
 
  
 
@@ -179,6 +194,9 @@ Test Markdown File
 
 
 ![Image](https://storage.googleapis.com/aschatbot-a50cf.appspot.com/ENG_Mannual_img5_2.png)
+
+
+---
 
  
 
@@ -197,7 +215,4 @@ Test Markdown File
 
  
 
-
-
----
 
