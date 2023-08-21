@@ -949,7 +949,7 @@ Note:
 These settings are reflected for all the CD/DVD/BD publishers registered (except for the PP-100N).
 
 
-![Image](img\img17_1.png)
+![Image](img/img17_1.png)
 
 1. Select Start (
  in Windows 7 or Windows Vista) - All Programs (or Programs) - 
@@ -965,7 +965,7 @@ The EPSON Total Disc Setup will start.
 The Common Setting for Publishing screen will appear.
 
 
-![Image](img\img17_2.png)
+![Image](img/img17_2.png)
 
 3. Click Browse to select a folder to create a Working Folder.
 
@@ -1013,7 +1013,7 @@ does not need to be added when the connection point (port) is set automatically.
 product is turned on.
 
 
-![Image](img\img18_1.png)
+![Image](img/img18_1.png)
 
 2. Select Start (
  in Windows 7 or Windows Vista) - All Programs (or Programs) - 
@@ -1055,7 +1055,7 @@ Note:
 This setting is reflected for all the CD/DVD/BD publishers registered.
 
 
-![Image](img\img19_1.png)
+![Image](img/img19_1.png)
 
 1. Select Start (
  in Windows 7 or Windows Vista) - All Programs (or Programs) - 
@@ -1077,7 +1077,7 @@ The Common Setting for Publishing screen will appear.
 The Notification Settings screen will appear.
 
 
-![Image](img\img19_2.png)
+![Image](img/img19_2.png)
 
 4. Check Display message box for Notification Method.
 
@@ -1147,7 +1147,7 @@ Click Start (
  in Windows 7 or Windows Vista), point to All Programs or Programs. 
 
 
-![Image](img\img20_1.png)
+![Image](img/img20_1.png)
 
 Point to EPSON Total Disc Maker, and then click EPSON Total Disc Maker.
 
@@ -1173,7 +1173,7 @@ Setup, click the
  button to display online help for each utility.
 
 
-![Image](img\img21_1.png)
+![Image](img/img21_1.png)
 
 Overview of Printer Driver
 
@@ -1210,7 +1210,7 @@ From EPSON Total Disc Maker
 Point to EPSON Total Disc Maker, and then click EPSON Total Disc Maker.
 
 
-![Image](img\img21_2.png)
+![Image](img/img21_2.png)
 
 2. Select Print Settings from Tool menu.
 
@@ -1256,7 +1256,7 @@ Click
 , Control Panel, then click Devices and Printers.
 
 
-![Image](img\img22_1.png)
+![Image](img/img22_1.png)
 
 Windows Vista/Windows Server 2008:
 Click 
@@ -1332,7 +1332,7 @@ may not be uninstalled when uninstalling the software.
  in Windows 7 or Windows Vista), and then select Control Panel.
 
 
-![Image](img\img23_1.png)
+![Image](img/img23_1.png)
 
 3. Click Uninstall a program (Windows 7, Windows Vista, or Windows Server 2008) or 
 double-click the Add or Remove Programs icon (Windows XP or Windows Server 
@@ -1965,7 +1965,7 @@ Click Start (
 Point to EPSON Total Disc Maker, and then click EPSON Total Disc Maker.
 
 
-![Image](img\img34_1.png)
+![Image](img/img34_1.png)
 
 To learn how to use EPSON Total Disc Maker, go to the Help menu.
 
@@ -1992,7 +1992,7 @@ Publishing Discs
 2. Select type of discs to be published from the list, then click Apply.
 
 
-![Image](img\img35_1.png)
+![Image](img/img35_1.png)
 
 Publishing Discs
 35
@@ -2017,7 +2017,7 @@ for EPSON Total Disc Maker.
 To access Help for EPSON Total Disc Maker, select Help from the Help menu.
 
 
-![Image](img\img36_1.png)
+![Image](img/img36_1.png)
 
 Publishing Discs
 36
@@ -2038,7 +2038,7 @@ software.
 1. Click Label on the menu bar of EPSON Total Disc Maker.
 
 
-![Image](img\img37_1.png)
+![Image](img/img37_1.png)
 
 Publishing Discs
 37
@@ -2052,7 +2052,7 @@ Publishing Discs
 2. Click Template tab and select a label design from the list, then click Apply.
 
 
-![Image](img\img38_1.png)
+![Image](img/img38_1.png)
 
 Publishing Discs
 38
@@ -2071,7 +2071,7 @@ Note:
 To access Help for EPSON Total Disc Maker, select Help from the Help menu.
 
 
-![Image](img\img39_1.png)
+![Image](img/img39_1.png)
 
 Publishing Discs
 39
@@ -2095,7 +2095,7 @@ The following instructions explain how to set stackers.
 Disc Setup.
 
 
-![Image](img\img40_1.png)
+![Image](img/img40_1.png)
 
 Publishing Discs
 40
@@ -2126,7 +2126,7 @@ If you want to eject published discs to stacker 4, select Do not
 use.
 
 
-![Image](img\img41_1.png)
+![Image](img/img41_1.png)
 
 4. Click OK.
 
@@ -2157,7 +2157,7 @@ To access Help for EPSON Total Disc Maker, select Help from the Help menu.
 2. Click the Publish button.
 
 
-![Image](img\img42_1.png)
+![Image](img/img42_1.png)
 
 Publishing Discs
 42
@@ -2340,7 +2340,7 @@ Click Start (
 Point to EPSON Total Disc Maker, and then click EPSON Total Disc Maker.
 
 
-![Image](img\img48_1.png)
+![Image](img/img48_1.png)
 
 To learn how to use EPSON Total Disc Maker, go to the Help menu.
 
@@ -2367,7 +2367,7 @@ Publishing Discs
 2. Select type of discs to be published from the list, then click Apply.
 
 
-![Image](img\img49_1.png)
+![Image](img/img49_1.png)
 
 Publishing Discs
 49
@@ -2392,7 +2392,7 @@ for EPSON Total Disc Maker.
 To access Help for EPSON Total Disc Maker, select Help from the Help menu.
 
 
-![Image](img\img50_1.png)
+![Image](img/img50_1.png)
 
 Publishing Discs
 50
@@ -2413,7 +2413,7 @@ software.
 1. Click Label on the menu bar of EPSON Total Disc Maker.
 
 
-![Image](img\img51_1.png)
+![Image](img/img51_1.png)
 
 Publishing Discs
 51
@@ -2427,7 +2427,7 @@ Publishing Discs
 2. Click Template tab and select a label design from the list, then click Apply.
 
 
-![Image](img\img52_1.png)
+![Image](img/img52_1.png)
 
 Publishing Discs
 52
@@ -2446,7 +2446,7 @@ Note:
 To access Help for EPSON Total Disc Maker, select Help from the Help menu.
 
 
-![Image](img\img53_1.png)
+![Image](img/img53_1.png)
 
 Publishing Discs
 53
@@ -2470,7 +2470,7 @@ The following instructions explain how to set stackers.
 Disc Setup.
 
 
-![Image](img\img54_1.png)
+![Image](img/img54_1.png)
 
 Publishing Discs
 54
@@ -2502,7 +2502,7 @@ If you want to eject published discs to stacker 4, select Do not
 use.
 
 
-![Image](img\img55_1.png)
+![Image](img/img55_1.png)
 
 4. Click OK.
 
@@ -2533,7 +2533,7 @@ To access Help for EPSON Total Disc Maker, select Help from the Help menu.
 2. Click the Publish button.
 
 
-![Image](img\img56_1.png)
+![Image](img/img56_1.png)
 
 Publishing Discs
 56
@@ -2709,7 +2709,7 @@ Click Start (
 Point to EPSON Total Disc Maker, and then click EPSON Total Disc Maker.
 
 
-![Image](img\img62_1.png)
+![Image](img/img62_1.png)
 
 To learn how to use EPSON Total Disc Maker, go to the Help menu.
 
@@ -2736,7 +2736,7 @@ Maker.
 2. Select type of discs to be published from the list, then click Apply.
 
 
-![Image](img\img63_1.png)
+![Image](img/img63_1.png)
 
 Publishing Discs
 63
@@ -2761,7 +2761,7 @@ for EPSON Total Disc Maker.
 To access Help for EPSON Total Disc Maker, select Help from the Help menu.
 
 
-![Image](img\img64_1.png)
+![Image](img/img64_1.png)
 
 Publishing Discs
 64
@@ -2782,7 +2782,7 @@ software.
 1. Click Label on the menu bar of EPSON Total Disc Maker.
 
 
-![Image](img\img65_1.png)
+![Image](img/img65_1.png)
 
 Publishing Discs
 65
@@ -2796,7 +2796,7 @@ Publishing Discs
 2. Click Template tab and select a label design from the list, then click Apply.
 
 
-![Image](img\img66_1.png)
+![Image](img/img66_1.png)
 
 Publishing Discs
 66
@@ -2815,7 +2815,7 @@ Note:
 To access Help for EPSON Total Disc Maker, select Help from the Help menu.
 
 
-![Image](img\img67_1.png)
+![Image](img/img67_1.png)
 
 Publishing Discs
 67
@@ -2839,7 +2839,7 @@ The following instructions explain how to set stackers.
 Disc Setup.
 
 
-![Image](img\img68_1.png)
+![Image](img/img68_1.png)
 
 Publishing Discs
 68
@@ -2860,7 +2860,7 @@ Publishing Discs
 Select the type of discs that you loaded into stackers 1 and 2.
 
 
-![Image](img\img69_1.png)
+![Image](img/img69_1.png)
 
 4. Click OK.
 
@@ -2888,7 +2888,7 @@ To access Help for EPSON Total Disc Maker, select Help from the Help menu.
 2. Click the Publish button.
 
 
-![Image](img\img70_1.png)
+![Image](img/img70_1.png)
 
 Publishing Discs
 70
@@ -3072,7 +3072,7 @@ select Pause Job from the Job menu or click
  button.
 
 
-![Image](img\img74_1.png)
+![Image](img/img74_1.png)
 
 Note:
 ❏
@@ -3083,7 +3083,7 @@ If there is a disc being published, the job is paused after the processing is fi
 The processing of any subsequent job also does not start while the job is paused. 
 
 
-![Image](img\img74_2.png)
+![Image](img/img74_2.png)
 
 Publishing Discs
 74
@@ -3105,9 +3105,9 @@ list, and then select Resume Job from the Job menu or click
  button.
 
 
-![Image](img\img75_1.png)
+![Image](img/img75_1.png)
 
-![Image](img\img75_2.png)
+![Image](img/img75_2.png)
 
 Publishing Discs
 75
@@ -3129,13 +3129,13 @@ list, and then select Cancel Job from the Job menu or click
  button.
 
 
-![Image](img\img76_1.png)
+![Image](img/img76_1.png)
 
 Note:
 If a disc is being published, that processing is stopped, and the disc is output to the output stacker.
 
 
-![Image](img\img76_2.png)
+![Image](img/img76_2.png)
 
 Publishing Discs
 76
@@ -3159,14 +3159,14 @@ Job list, and then select Priority Publishing from the Job menu or click
 selected job will be processed after the job in progress.
 
 
-![Image](img\img77_1.png)
+![Image](img/img77_1.png)
 
 Note:
 Any job cannot be given priority before such operations as nozzle checking, aligning print head, and 
 correcting printing position.
 
 
-![Image](img\img77_2.png)
+![Image](img/img77_2.png)
 
 Publishing Discs
 77
@@ -3202,7 +3202,7 @@ You can also run EPSON Total Disc Monitor from the Start menu.
 & See “Using EPSON Total Disc Monitor” on page 100.
 
 
-![Image](img\img78_1.png)
+![Image](img/img78_1.png)
 
 Note:
 If any of the ink cartridges installed in the product is broken, incompatible with the product 
@@ -4721,7 +4721,7 @@ select Start Total Disc Monitor.
 Point to EPSON Total Disc Maker, and then click EPSON Total Disc Monitor.
 
 
-![Image](img\img100_1.png)
+![Image](img/img100_1.png)
 
 Troubleshooting
 100
@@ -4735,7 +4735,7 @@ Troubleshooting
 When you access EPSON Total Disc Monitor, the following window appears:
 
 
-![Image](img\img101_1.png)
+![Image](img/img101_1.png)
 
 Job List
 
@@ -5006,35 +5006,35 @@ If you are having a print quality problem, then compare it with the illustration
 the caption under the illustration that best resembles your printout.
 
 
-![Image](img\img105_1.png)
+![Image](img/img105_1.png)
 
-![Image](img\img105_2.png)
+![Image](img/img105_2.png)
 
 Good sample
 Good sample
 
 
-![Image](img\img105_3.png)
+![Image](img/img105_3.png)
 
-![Image](img\img105_4.png)
+![Image](img/img105_4.png)
 
 “Horizontal Banding” on page 105
 “Vertical Misalignment” on page 
 106
 
 
-![Image](img\img105_5.png)
+![Image](img/img105_5.png)
 
-![Image](img\img105_6.png)
+![Image](img/img105_6.png)
 
 “Horizontal Banding” on page 105
 “Vertical Misalignment” on page 
 106
 
 
-![Image](img\img105_7.png)
+![Image](img/img105_7.png)
 
-![Image](img\img105_8.png)
+![Image](img/img105_8.png)
 
 “Incorrect or Missing Colors” on 
 page 106
